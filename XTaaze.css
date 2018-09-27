@@ -1,0 +1,79 @@
+@font-face {
+  font-family: XTaaze;
+  src: url('XTaaze-Thin.eot');
+  src: url('XTaaze-Thin.eot%3F') format('embedded-opentype'),
+       url('XTaaze-Thin.woff2') format('woff2'),
+       url('XTaaze-Thin.woff') format('woff'),
+       url('XTaaze-Thin.ttf') format('truetype');
+  font-weight: 100;
+}
+
+@font-face {
+  font-family: XTaaze;
+  src: url('XTaaze-Light.eot');
+  src: url('XTaaze-Light.eot%3F') format('embedded-opentype'),
+       url('XTaaze-Light.woff2') format('woff2'),
+       url('XTaaze-Light.woff') format('woff'),
+       url('XTaaze-Light.ttf') format('truetype');
+  font-weight: 200;
+}
+
+@font-face {
+  font-family: XTaaze;
+  src: url('XTaaze-Regular.eot');
+  src: url('XTaaze-Regular.eot%3F') format('embedded-opentype'),
+       url('XTaaze-Regular.woff2') format('woff2'),
+       url('XTaaze-Regular.woff') format('woff'),
+       url('XTaaze-Regular.ttf') format('truetype');
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: XTaaze;
+  src: url('XTaaze-Medium.eot');
+  src: url('XTaaze-Medium.eot%3F') format('embedded-opentype'),
+       url('XTaaze-Medium.woff2') format('woff2'),
+       url('XTaaze-Medium.woff') format('woff'),
+       url('XTaaze-Medium.ttf') format('truetype');
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: XTaaze;
+  src: url('XTaaze-Semibold.eot');
+  src: url('XTaaze-Semibold.eot%3F') format('embedded-opentype'),
+       url('XTaaze-Semibold.woff2') format('woff2'),
+       url('XTaaze-Semibold.woff') format('woff'),
+       url('XTaaze-Semibold.ttf') format('truetype');
+  font-weight: 600;
+}
+
+@font-face {
+  font-family: XTaaze;
+  src: url('XTaaze-Bold.eot');
+  src: url('XTaaze-Bold.eot%3F') format('embedded-opentype'),
+       url('XTaaze-Bold.woff2') format('woff2'),
+       url('XTaaze-Bold.woff') format('woff'),
+       url('XTaaze-Bold.ttf') format('truetype');
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: XTaaze;
+  src: url('XTaaze-Heavy.eot');
+  src: url('XTaaze-Heavy.eot%3F') format('embedded-opentype'),
+       url('XTaaze-Heavy.woff2') format('woff2'),
+       url('XTaaze-Heavy.woff') format('woff'),
+       url('XTaaze-Heavy.ttf') format('truetype');
+  font-weight: 800;
+}
+
+@font-face {
+  font-family: XTaaze;
+  src: url('XTaaze-Black.eot');
+  src: url('XTaaze-Black.eot%3F') format('embedded-opentype'),
+       url('XTaaze-Black.woff2') format('woff2'),
+       url('XTaaze-Black.woff') format('woff'),
+       url('XTaaze-Black.ttf') format('truetype');
+  font-weight: 900;
+}
